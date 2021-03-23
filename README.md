@@ -29,9 +29,9 @@ You need to install Java, Python, Node.js and Formidable to run this sample appl
 <img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/05-Install%20Java%205.png" alt="Install Java">
 
 - Alternatively, you may install Java using npm as follows:
-
-- npm I java
-
+```
+npm I java
+```
   
 ## 1.2 Install Python
 
@@ -47,8 +47,9 @@ You need to install Java, Python, Node.js and Formidable to run this sample appl
 
 - Alternatively you may install Python from npm as follows:
 
-- npm i python
-
+```
+npm i python
+```
   
 ## 1.3 Install Node.js
 

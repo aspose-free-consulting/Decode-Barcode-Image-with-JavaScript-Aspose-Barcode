@@ -112,8 +112,8 @@ Following are the details of contents of this package:
 
 <img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/17-Run%20Application%202.png" alt="Install Java">
 
-    - Click on &quot;Choose File&quot; and select the image containing barcoded.
-    - Press &quot;Submit&quot; once the image is uploaded.
+    - Click on "Choose File" and select the image containing barcoded.
+    - Press "Submit" once the image is uploaded.
     - It will read the image and render the decoded string.
 
 <img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/18-Program%20Output.png" alt="Install Java">

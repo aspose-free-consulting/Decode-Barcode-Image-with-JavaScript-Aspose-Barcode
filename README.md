@@ -99,7 +99,7 @@ Following are the details of contents of this package:
     - First a file is loaded and saved in a folder named &quot;Images&quot;
     - This image file is read by AsposeBarCode.Reader and all the barcodes are read from this image and displayed on the web page.
   - **fileUpload.js – Application Code**
-
+```
 var http = require(&#39;http&#39;);
 
 var formidable = require(&#39;formidable&#39;);
@@ -185,7 +185,7 @@ return res.end();
 }
 
 }).listen(8080);
-
+```
   - **Node\_modules –** It contains all the required assemblies to run the aspose.barcode related code and loading the file to browser page.
   - **Images –** This folder will be used to save the uploaded images
   - **Run\_file\_upload.cmd –** This file contains command to run the .js file in lib folder. You may double click it and .js file should be executed as follows:

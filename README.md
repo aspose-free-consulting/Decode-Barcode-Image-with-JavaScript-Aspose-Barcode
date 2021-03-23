@@ -1,4 +1,4 @@
-This free consulting project will help you in understanding the usage of Aspose.BarCode for Node.js via Java. You can take a picture of a barcode and then display the decoded string in browser.
+﻿Test-This free consulting project will help you in understanding the usage of Aspose.BarCode for Node.js via Java. You can take a picture of a barcode and then display the decoded string in browser.
 
 # 1. Environment Settings
 

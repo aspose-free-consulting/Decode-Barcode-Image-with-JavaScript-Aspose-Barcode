@@ -10,23 +10,23 @@ You need to install Java, Python, Node.js and Formidable to run this sample appl
 - Download the latest Java from the following link:
 
 [https://www.oracle.com/java/technologies/javase-jdk15-downloads.html](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/01-Install%20Java%201.png" alt="Download Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/01-Install%20Java%201.png" alt="Download Java" width="500">
 
 - Install latest version of JAVA SE Development Kit by executing &quot;jdk-15.0.2\_windows-x64\_bin.exe&quot;. (Current Version is 15.0.2).
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/02-Install%20Java%202.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/02-Install%20Java%202.png" alt="Install Java" width="500">
 
 - Press Yes and proceed with the Wizard with default options. It will install latest JDK as shown below.
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/03-Install%20Java%203.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/03-Install%20Java%203.png" alt="Install Java" width="500">
 
 - Add or Set the environment variable JAVA\_HOME in your operating system as follows:
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/04-Install%20Java%204.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/04-Install%20Java%204.png" alt="Install Java" width="500">
 
 - Add this value to &quot;path&quot; by adding new entry as shown below:
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/05-Install%20Java%205.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/05-Install%20Java%205.png" alt="Install Java" width="500">
 
 - Alternatively, you may install Java using npm as follows:
 ```
@@ -39,11 +39,11 @@ npm I java
 
 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/06-Python%201.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/06-Python%201.png" alt="Install Java" width="500">
 
 - Install Python using python-3.9.2-amd64.exe (Current version is 3.9.2).
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/07-Python%202.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/07-Python%202.png" alt="Install Java" width="500">
 
 - Alternatively you may install Python from npm as follows:
 
@@ -57,17 +57,17 @@ npm i python
 
 [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/08-Node-00.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/08-Node-00.png" alt="Install Java" width="500">
 
 - Install the latest version of Node.js using &quot;node-v14.16.0-x64.msi&quot;. (Current version is 14.16.0). Following options will be displayed by the Wizard. Select the default options as shown in sequence of images below:
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/09-Node-01.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/09-Node-01.png" alt="Install Java" width="500">
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/10-Node-02.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/10-Node-02.png" alt="Install Java" width="500">
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/11-Node-03.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/11-Node-03.png" alt="Install Java" width="500">
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/12-Node-js%2004%20-%20Installation.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/12-Node-js%2004%20-%20Installation.png" alt="Install Java" width="500">
 
 Press Next and complete the Node.js installation.
 
@@ -76,7 +76,7 @@ Press Next and complete the Node.js installation.
 
 Formidable is required to upload file in this application. Use npm to install formidable from the command window as follows:
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/13-Formidable.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/13-Formidable.png" alt="Install Java" width="500">
 
   
 ## 1.5 Use the package to test the application
@@ -86,13 +86,13 @@ We have prepared a complete package that contains all the dependencies required 
 - Create folder &quot;C:\TestFolder&quot;
 - Copy package contents in this folder as follows:
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/14-Package%20Contents.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/14-Package%20Contents.png" alt="Install Java" width="500">
 
 Following are the details of contents of this package:
 
   - **sample2.png –** This is a sample barcode image that can be used with this sample application.
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/15-Sample%20Image.svg" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/15-Sample%20Image.svg" alt="Install Java" width="500">
 
   - **lib Folder Contents–** This folder contains fileUpload.js file that works as follows:
     - This application will run using http protocol
@@ -106,17 +106,17 @@ Following are the details of contents of this package:
   - **Images –** This folder will be used to save the uploaded images
   - **Run\_file\_upload.cmd –** This file contains command to run the .js file in lib folder. You may double click it and .js file should be executed as follows:
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/16-Run%20Application.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/16-Run%20Application.png" alt="Install Java" width="500">
 
-    - Now open the browser and enter htpp://localhost:8080 that will open a page as follows:
+Now open the browser and enter htpp://localhost:8080 that will open a page as follows:
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/17-Run%20Application%202.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/17-Run%20Application%202.png" alt="Install Java" width="500">
 
     - Click on "Choose File" and select the image containing barcoded.
     - Press "Submit" once the image is uploaded.
     - It will read the image and render the decoded string.
 
-<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/18-Program%20Output.png" alt="Install Java">
+<img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/18-Program%20Output.png" alt="Install Java" width="500">
 
   
 ## 1.6 Interested in Aspose free consulting project?

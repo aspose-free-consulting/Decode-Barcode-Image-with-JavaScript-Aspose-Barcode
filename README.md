@@ -1,4 +1,4 @@
-﻿This free consulting project will help you in understanding the usage of Aspose.BarCode for Node.js via Java. You can take a picture of a barcode and then display the decoded string in browser.
+﻿This free consulting project will help you in understanding the usage of [Aspose.BarCode for Node.js via Java](https://docs.aspose.com/barcode/nodejsjava/). You can take a picture of a barcode and then display the decoded string in browser.
 
 # 1. Environment Settings
 
@@ -98,7 +98,7 @@ Following are the details of contents of this package:
     - This application will run using http protocol
     - It uses formidable library to upload the image file
     - First a file is loaded and saved in a folder named &quot;Images&quot;
-    - This image file is read by AsposeBarCode.Reader and all the barcodes are read from this image and displayed on the web page.
+    - This image file is read by [AsposeBarCode.Reader](https://apireference.aspose.com/barcode/java/com.aspose.barcode.barcoderecognition/BarCodeReader) and all the [barcodes are read from this image](https://docs.aspose.com/barcode/java/read-barcodes/) and displayed on the web page.
   - **fileUpload.js – Application Code**
 <img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/19-Code.png" alt="Install Java">
 

@@ -102,7 +102,7 @@ Following are the details of contents of this package:
   - **fileUpload.js – Application Code**
 <img src="https://github.com/ahsaniqbalsidiqui/Decode-Barcode-Image-with-JavaScript-Aspose-Barcode-1/blob/main/ReadMe-Images/19-Code.png" alt="Install Java">
 
-  - **Node\_modules –** It contains all the required assemblies to run the aspose.barcode related code and loading the file to browser page.
+  - **Node\_modules –** It contains all the required assemblies to run the [aspose.barcode](https://products.aspose.com/barcode/java) related code and loading the file to browser page.
   - **Images –** This folder will be used to save the uploaded images
   - **Run\_file\_upload.cmd –** This file contains command to run the .js file in lib folder. You may double click it and .js file should be executed as follows:
 

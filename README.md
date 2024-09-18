@@ -129,4 +129,4 @@ Also, you can keep in touch with the latest developments in [file format APIs of
 
   
 ## 1.7 This free consulting project is based on the following issue:
-[https://github.com/aspose-free-consulting/projects/issues/119](https://github.com/aspose-free-consulting/projects/issues/119)
+github.com/aspose-free-consulting/projects/issues/119
